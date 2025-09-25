@@ -1,7 +1,7 @@
 .. figure:: _static/banner_logos.png
 
 
-TThe *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
+The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
 which has been arranged by the member universities of the 
 **Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years.
 
@@ -17,7 +17,8 @@ In addition, the Geoinformatics Research Days 2025 will act as the final event o
 Event registration
 ====================
 
-  Register to the event `HERE <https://link.webropolsurveys.com/EP/D119AE34356B738B>`_. Registration will be open until May 1st. 
+    Coming soon
+  .. Register to the event `HERE <https://link.webropolsurveys.com/EP/D119AE34356B738B>`_. Registration will be open until May 1st. 
 
 Programme
 ============
