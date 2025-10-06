@@ -3,27 +3,21 @@
 
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
 which has been arranged by the member universities of the 
-**Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years.
+**Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years. Traditionally, the Research Days have been a relatively small-scale event 
+with mostly invited programme. However, in 2026 the *Geoinformatics Research Days* will have an open call for papers. 
 
-Traditionally, the Research Days have been a relatively small-scale event with mostly invited programme. However, in 2025
-the *Geoinformatics Research Days* is arranged in in cooperation with `Location Based Services 2025 conference <https://lbs2025.lbsconference.org/>`_.
-The LBS2025 conference will be held in Dipoli, Otaniemi, on 7-9 May. Because of this cooperation, the 2025 iteration of the Research Days will be held as a one-day event on 
-**6 May, 2025**. 
-
-The Research Days will act as a pre-event for the LBS2025 conference, and all LBS2025 participants are welcome to join us in the Research Days. 
-Participants of the Research Days are also invited to join the LBS2025 conference (separate `registration required <https://lbs2025.lbsconference.org/pages/registration.html>`_, open until April 27th).
-In addition, the Geoinformatics Research Days 2025 will act as the final event of the `Geospatial Challenge Camp 2025 <https://challenge-camp.geoportti.fi/>`_.
+In 2026 the Geoinformatics Research Days will be held as a two-day event on 11th and 12th of May, 2026.
+In addition, the Geoinformatics Research Days 2026 will act as the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_.
 
 Event registration
 ====================
-
-    Coming soon
-  .. Register to the event `HERE <https://link.webropolsurveys.com/EP/D119AE34356B738B>`_. Registration will be open until May 1st. 
+    .. Coming soon!
+    .. Register to the event `HERE <https://link.webropolsurveys.com/EP/D119AE34356B738B>`_. Registration will be open until May 1st. 
 
 Programme
 ============
 
-Tuesday the 6th
+Monday the 11th
 ------------
 
 .. raw:: html 
@@ -212,13 +206,16 @@ Event sponsors
     :show_indicators:
     :show_dark:
 
+    .. figure:: _static/img/helsinki_c.png
+    
+      www.helsinki.fi
+
     .. figure:: _static/img/aalto_c.png
 
       www.aalto.fi
 
-    .. figure:: _static/img/helsinki_c.png
-    
-      www.helsinki.fi
+    .. figure:: _static/img/fiuginet_c.png
+      .. www.geoportti.fi/services/skills-development/fiuginet/
 
     .. figure:: _static/img/uturku_c.png
       
