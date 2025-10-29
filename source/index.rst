@@ -1,263 +1,118 @@
 .. figure:: _static/banner_logos.png
 
+The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
+which has been arranged by the member universities of the 
+**Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years.
+
+Traditionally, the Research Days have been a relatively small-scale event with mostly invited programme. However, in 2025
+the *Geoinformatics Research Days* is arranged in in cooperation with `Location Based Services 2025 conference <https://lbs2025.lbsconference.org/>`_.
+The LBS2025 conference will be held in Dipoli, Otaniemi, on 7-9 May. Because of this cooperation, the 2025 iteration of the Research Days will be held as a one-day event on 
+**6 May, 2025**. 
+
+The Research Days will act as a pre-event for the LBS2025 conference, and all LBS2025 participants are welcome to join us in the Research Days. 
+Participants of the Research Days are also invited to join the LBS2025 conference (separate `registration required <https://lbs2025.lbsconference.org/pages/registration.html>`_).
+In addition, the Geoinformatics Research Days 2025 will act as the final event of the `Geospatial Challenge Camp 2025 <https://challenge-camp.geoportti.fi/>`_.
+
 
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
 which has been arranged by the member universities of the 
-**Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years. Traditionally, the Research Days have been a relatively small-scale event 
-with mostly invited programme. However, in 2026 the *Geoinformatics Research Days* will have an open call for papers. 
+**Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years.
 
-In 2026 the Geoinformatics Research Days will be held as a two-day event on 11th and 12th of May, 2026.
-In addition, the Geoinformatics Research Days 2026 will act as the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_.
+Traditionally, the Research Days have been a relatively small-scale event with mostly invited programme. 
+However, in 2023 *Fiuginet* made the decision to develop the event into a scientific conference, and therefore 
+we are proud to announce the **Call for papers** for *Geoinformatics Research Days 2024*. 
+The event will take place on May 20-21st, 2024 and will be organized by *Aalto University* together with the *Fiuginet* network, 
+hosted in *Espoo, Finland.* The event is held together with the ICA Commission on Cognitive Issues in Geographic Information 
+Visualisation with targeted sessions and their members are also warmly welcome.
+
+We invite researchers, practitioners, and experts from academia, industry, and government sectors both in 
+Finland and abroad to submit their research contributions for presentation during the *Geoinformatics Research Days 2024*. 
+The conference will cover a broad spectrum of topics related to Geoinformatics, including but not limited to:
+
+1. Geospatial Data Acquisition and Processing
+2. Geographic Information Systems (GIS) and Remote Sensing
+3. Spatial Data Analysis and Visualization
+4. Geospatial Algorithms and Modeling
+5. User Cognition in Geospatial Applications
+6. Geoinformatic Human-Computer Interaction
+7. Location-Based Services and Geographic Information Retrieval
+8. Big Data Analytics for Geospatial Applications
+9. Spatial Data Infrastructures and Interoperability
+10. Geoinformatics for Smart Cities and Urban Planning
+11. Environmental Monitoring and Geospatial Solutions
+12. Geoinformatics for Sustainable Development
+13. Geospatial AI and Machine Learning Applications
+14. Open Geospatial Science and Open Source Software
+15. Papers aimed at the programme related to the **ICA Commission on Cognitive Issues in Geographic Information Visualization**
+
+Your participation in the *Geoinformatics Research Days 2024* will make a significant contributions, foster collaboration,
+and shape the future of Geoinformatics. Together, let's advance the understanding and application of geospatial technologies 
+for a more sustainable and interconnected world.
+
+Submission guidelines
+======================
+
+Presenters are invited to submit an extended abstract of a maximum of 1000 words (approximately 2 pages of text) in English. 
+In your paper please note if your paper is aimed at the ICA CogVIS programme track. 
+
+All submitted papers will be peer-reviewed to ensure the quality of the contributions. 
+All accepted publications will be given a chance to present their work at the *Geoinformatics Research Days 2024*.
+
+
+.. attention:: 
+    - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: January 30th, 2024
+    - Abstract submission deadline: March 8th 2024
+    - Notification of acceptance: April 23rd 2024
+    - Conference dates: 20-21 May
+
+
+.. Paper submission
+.. ================
+
+.. Please submit your paper to the Geoinformatics Research Days using **Openconf**.
+
+.. .. admonition:: Until ??? 2026 
+
+..   .. button-link:: https://easychair.org/my/conference?conf=grd24
+..       :color: primary
+..       :shadow:
+..       :align: center
+
+..       👉 Submission!
+
 
 Event registration
 ====================
-    .. Coming soon!
-    .. Register to the event `HERE <https://link.webropolsurveys.com/EP/D119AE34356B738B>`_. Registration will be open until May 1st. 
 
-Programme
-============
+.. admonition:: Fill this form! 
 
-Monday the 11th
-------------
+  Confirm your presence in the event by filling this form.
 
-.. raw:: html 
+  .. button-link:: https://link.webropolsurveys.com/S/0CB43272A49318CD
+      :color: primary
+      :shadow:
+      :align: center
 
-    <div>
-        
-        <style>
-            table, th, td {
-                border: 1px solid black;
-                border-collapse: collapse;}
-        </style>
-
-
-        <table style="width:100%">
-            <tr>
-            <th>Time</th>
-            <th aligns="center">Details</th>
-            </tr><ul>
-
-            <tr>
-            <td>08:30 <br> 09:00</td>
-            <td>
-                <ul>
-                    <p>Morning coffee for early arrivals</p>
-                
-                </ul></ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td>09:00 <br> 09:05</td>
-            <td>
-                <ul>
-                    <p>Welcome and opening of the research days</p>
-
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td>09:05 <br> 10:15</td>
-            <td>
-                <ul>
-                    <p><b><u>Keynote and the first session</u></b></p>
-                    <!-- p><b> (Chair: Niina Käyhkö)</b></p> -->
-
-                <ul>
-
-                    <li><b>Keynote</b>: Understanding functional cross-border regions in Europe from mobilities of people: New Insights from Big Data - Research fellow Olle Järv, University of Helsinki</li>                
-
-                    <li>Latest news from the Geoportti research infrastructure - prof. Henrikki Tenkanen, Aalto University</li>
-
-                </ul>
-                </ul>
-                
-            </td>
-            </tr>
-
-            <tr>
-            <td>10:15 <br> 10:45</td>
-            <td>
-                <ul>
-                    <p>Coffee break </p>
-
-            </td>
-            </tr>
-
-
-            <tr>
-            <td>10:45 <br> 12:00</td>
-            <td>
-                <ul>
-                    <p><u><b>Morning presentations</u></b></p>
-                    <!-- <p><b> (Chair: Henrikki Tenkanen)</b></p> -->
-
-                <ul>
-
-                    <li><b>10:45 - 11:15</b> Location Innovation Hub -  Advancing Geospatial Research - Joonas Jokela, National Land Survey of Finland</li>
-
-                    <li><b>11:15 - 11:35</b> Shoreline migration data from full Landsat collections reveal dramatic coastal changes across the Arctic - Tua Nylen, University of Turku</li>
-
-                    <li><b>11:35 - 11:55</b> Application of large language models in hydrology - Seyed Hosseini, Aalto University</li>
-
-                </ul>
-            </td>
-            </tr>
-
-
-            <tr>
-            <td>12:00 <br> 13:00</td>
-            <td>
-                <ul>
-                    <p>Lunch break</p>
-
-            </td>
-            </tr>
-
-
-            <tr>
-            <td>13:00 <br> 14:15</td>
-            <td>
-                <ul>
-                    <p><u><b>Geospatial Challenge Camp Final Event, part 1</u></b></p>
-                    <!-- <p><b> (Chair: Niina Käyhkö)</b></p> -->
-
-                <ul>
-
-                    <li><b>13:00 - 13:15</b> Welcome to the GCC final event</li>
-
-                    <li><b>13:15 - 14:15</b>10+10 minute pitches by the participanting teams</li>
-
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td>14:15 <br> 14:30</td>
-            <td>
-                <ul>
-                    <p>Afternoon coffee break</p>
-
-            </td>
-            </tr>
-
-        <tr>
-            <td>14:30 <br> 16:00</td>
-            <td>
-                <ul>
-                    <p><u><b>Geospatial Challenge Camp Final Event, part 2</u></b></p>
-                    <!-- <p><b> (Chair: Niina Käyhkö)</b></p> -->
-
-                <ul>
-
-                    <li><b>14:30 - 15:30</b> 10+10 minute pitches by the participanting teams</li>
-
-                    <li><b>15:30 - 15:45</b> How to get ESA research and development funding for geospatial innovations - Miika Kostamo, ESA Phi-Lab</li>
-
-                    <li><b>15:45 - 15:55</b> Presentation of certificates to the participants</li>
-
-                    <li><b>15:55 - 16:00</b> Closing words for the Geoinformatics research days and the geospatial challenge camp</li>
-
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td>16:00 <br> c. 17:00</td>
-            <td>
-                <ul>
-                    <p>Drinks and networking</p>
-
-            </td>
-            </tr>
-            
-        </table>
-
-    </div>
+      👉 Registration form!
 
 
 Venue
 ======
 
-Event will be held at: **Otakaari 1**, lecture hall U9 (room U271), Otaniemi, Finland.
-
-.. raw:: html
-  <div>
-
-  <hr>
-  <iframe 
-    src="https://www.google.com/maps/embed/v1/place?q=Otakaari+1&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" 
-    width="100%" 
-    height="500" 
-    style="border:0;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
-  <hr>
+To be announced.
 
 
-Event sponsors
-=================
+Scientific committee
+====================
 
-.. carousel::
-    :show_controls:
-    :show_indicators:
-    :show_dark:
+To be announced.
 
-    .. figure:: _static/img/helsinki_c.png
-    
-      www.helsinki.fi
 
-    .. figure:: _static/img/aalto_c.png
-
-      www.aalto.fi
-
-    .. figure:: _static/img/fiuginet_c.png
-      .. www.geoportti.fi/services/skills-development/fiuginet/
-
-    .. figure:: _static/img/uturku_c.png
-      
-      www.utu.fi
-
-    
-
-Contact
+Contact us
 ===============
 
-For any inquiries or further information, please contact the fiuginet chairperson, `Jussi Nikander <https://www.aalto.fi/en/people/jussi-nikander>`_.
-  
+.. grid:: 1
 
-..
-  .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
-    :hidden:
+    .. grid-item-card:: :fas:`bell`
 
-
-    Theme<tabs/theme>
-    Partners<tabs/partners>
-    Researchers and Students<tabs/researchers>
-    Full schedule<tabs/schedule>
-    Kick-off meeting<tabs/kick_off>
-    Accomodation<tabs/accommodation>   
-    Materials & Info<tabs/materials/index>
-
-
-
-
-
-
-
-
-
-
-
-..
-               Indices and tables
-               ==================
-
-               * :ref:`genindex`
-               * :ref:`modindex`
-               * :ref:`search`
+        For questions or further information, please contact us by email at **geoinfo-research-days@helsinki.fi**
