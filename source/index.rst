@@ -111,11 +111,4 @@ Contact us
 Event Sponsors
 ===============
 
-.. list-table:: 
-   :widths: 50 50
-   :header-rows: 0
-
-   * - .. image:: _static/logos/helsinki_c.png
-        :align: center
-     - .. image:: _static/logos/fiuginet_c.png
-        :align: center
+.. figure:: _static/logos/helsinki_c.png
