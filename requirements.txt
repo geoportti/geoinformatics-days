@@ -9,4 +9,3 @@ sphinx_design
 sphinx-carousel
 sphinxawesome-theme
 sphinx-book-theme
-furo
