@@ -1,5 +1,6 @@
 import os
-
+from dataclasses import asdict
+from sphinxawesome_theme import ThemeOptions
 
 # Configuration file for the Sphinx documentation builder.
 #
