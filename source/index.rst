@@ -71,7 +71,26 @@ Event registration
 Venue
 ======
 
-To be announced.
+Event will be held at: **Porthania building, the City Centre Campus, University of Helsinki**, Helsinki, Finland.
+
+.. Porthania, aula
+.. DAY 1: Porthania, PIII + Porthania, P673
+.. DAY 2: Porthania, PIII +  Porthania, P722
+
+.. raw:: html
+  <div>
+
+  <hr>
+  <iframe 
+    src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJjWxNe84LkkYRBL8RrNBKOxk&key=AIzaSyAZuzkPiFYjv5HyIrAf5Nnq4QicmQQ4hB8"
+    width="100%" 
+    height="500" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+  <hr>
 
 
 Scientific committee
