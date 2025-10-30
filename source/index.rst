@@ -116,4 +116,6 @@ Event Sponsors
    :header-rows: 0
 
    * - .. image:: _static/logos/helsinki_c.png
+        :align: center
      - .. image:: _static/logos/fiuginet_c.png
+        :align: center
