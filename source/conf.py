@@ -9,8 +9,8 @@ import os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Geoinformatics Research Days 2024'
-copyright = '2024, Aalto University | Department of Built Environment'
+project = 'Geoinformatics Research Days 2026'
+copyright = 'Geoinformatics Research Days 2026 organizers'
 author = 'Bryan R Vallejo'
 release = '1.0'
 
@@ -41,9 +41,9 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "pydata_sphinx_theme"
+html_theme = "sphinxawesome_theme"
 html_logo = '_static/grd_menu.png' 
-html_title = "Geoinformatics Research Days 2024"
+html_title = "Geoinformatics Research Days 2026"
 
 html_static_path = ['_static']
 

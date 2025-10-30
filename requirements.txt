@@ -7,3 +7,6 @@ sphinx-togglebutton
 ipython
 sphinx_design
 sphinx-carousel
+sphinxawesome-theme
+sphinx-book-theme
+furo

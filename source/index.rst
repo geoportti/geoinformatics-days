@@ -1,12 +1,13 @@
 .. figure:: _static/banner_logos.png
 
-Welcome to Geoinformatics Research Days 2026
+Welcome
 ======================
 
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
-which has been arranged by the member universities of the 
-**Finnish University Network for Geoinformatics (Fiuginet)** for over 10 years. The event will take place on May 11-12, 2026 and will be organized by *University of Helsinki* together with the *Fiuginet* network, 
-hosted in *Helsinki, Finland.* 
+which has been arranged by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
+for over 10 years. The event will take place on May 11-12, 2026 and will be organized by *University of Helsinki* together 
+with the *Fiuginet* network, hosted in *Helsinki, Finland.* In addition, the Geoinformatics Research Days 2026 will 
+include the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_ where teams present their results.
 
 Call for Submissions
 ======================
@@ -22,20 +23,15 @@ Topics of interest
 
 Submissions are welcome in, but not limited to, the following areas:
 
-1. Geospatial Data Acquisition and Processing
-2. Geographic Information Systems (GIS) and Remote Sensing
-3. Spatial Data Analysis and Visualization
-4. Geospatial Algorithms and Modeling
-5. User Cognition in Geospatial Applications
-6. Geoinformatic Human-Computer Interaction
-7. Location-Based Services and Geographic Information Retrieval
-8. Big Data Analytics for Geospatial Applications
-9. Spatial Data Infrastructures and Interoperability
-10. Geoinformatics for Smart Cities and Urban Planning
-11. Environmental Monitoring and Geospatial Solutions
-12. Geoinformatics for Sustainable Development
-13. Geospatial AI and Machine Learning Applications
-14. Open Geospatial Science and Open Source Software
+1. Geospatial Intelligence and AI
+2. Environmental Change, Resilience, and Sustainability 
+3. Urban Analytics, Mobility, and Smart Cities   
+4. Participatory GIS, Citizen Science, and Spatial Justice 
+5. Remote Sensing, Earth Observation, and Spatial Modelling 
+6. Geovisualization, Cartography, and Communication    
+7. Open Geospatial Data, Reproducibility, and FAIR Practices
+8. Education, Methods, and Emerging Technologies in Geoinformatics
+9. General Advances in GIScience and Geoinformatics      
 
 Your participation in the Geoinformatics Research Days 2026 will make a significant contributions, foster collaboration,
 and shape the future of Geoinformatics. Together, let's advance the understanding and application of geospatial technologies 
@@ -60,16 +56,16 @@ Important dates
 Event registration
 ====================
 
-.. admonition:: Fill this form! 
+.. admonition:: Registration Required
 
-  Confirm your presence in the event by filling this form.
+  Please confirm your attendance at the event by completing the registration form.
 
-  .. button-link:: https://link.webropolsurveys.com/S/0CB43272A49318CD
+  .. button-link:: #
       :color: primary
       :shadow:
       :align: center
 
-      👉 Registration form!
+      Complete the Registration Form
 
 
 Venue
