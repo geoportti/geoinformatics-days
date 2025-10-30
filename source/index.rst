@@ -48,15 +48,15 @@ All accepted publications will be given a chance to present their work at the *G
 Important dates
 ======================
 .. attention:: 
-    - Abstract `Submission Opens <https://easychair.org/my/conference?conf=grd24>`_: November 12th, 2025
-    - Abstract submission deadline: end of the year/January 2026
-    - Notification of acceptance: March-April (?)
-    - Conference dates: 11-12 May
+    - Abstract `Submission Opens <https://grd-finland.space/openconf.php>`_: November 24th, 2025
+    - Abstract Submission Deadline: January 8th, 2026
+    - Notification of Acceptance: To be announced
+    - Conference Dates: May 11-12, 2026
 
 Event registration
 ====================
 
-.. admonition:: Registration Required
+.. admonition:: Registration
 
   Please confirm your attendance at the event by completing the registration form.
 
@@ -107,3 +107,13 @@ Contact us
     .. grid-item-card:: :fas:`bell`
 
         For questions or further information, please contact us by email at **geoinfo-research-days@helsinki.fi**
+
+Event Sponsors
+===============
+
+.. list-table:: 
+   :widths: 50 50
+   :header-rows: 0
+
+   * - .. image:: _static/logos/helsinki_c.png
+     - .. image:: _static/logos/fiuginet_c.png
