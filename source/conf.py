@@ -32,14 +32,12 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
-
-
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
 html_logo = '_static/grd_menu.png' 
-html_title = "Geoinformatics Research Days 2024"
+html_title = "Geoinformatics Research Days 2026"
 
 html_static_path = ['_static']
 
@@ -52,15 +50,21 @@ json_url = '_static\switcher.json'
 version_match = "v1.0"
 
 html_theme_options = {
+    ### Navbar ###
     'navbar_align': 'content', 
     'navbar_persistent': [], #'search-field'
     'search_bar_text': '',
-    "header_links_before_dropdown": 8,
+    'header_links_before_dropdown': 8,
     'navbar_end': ['navbar-icon-links', 'theme-switcher'], # , 
+
+    ### Footer ###
     'footer_start':['search-field' , "copyright", ], # 
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
+
     'pygment_light_style': 'xcode',
+
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
+
     # 'announcement': 'Submission deadline in Feb 2024!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
@@ -86,7 +90,8 @@ html_theme_options = {
 # -------> navigation bar elements on left
 
 html_sidebars = {
-    "**": [ "sidebar-nav-bs.html"],
+    # Apply to ALL pages including index
+    "**": ["sidebar-nav-bs.html"],
 }
 
 

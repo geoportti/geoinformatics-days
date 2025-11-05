@@ -16,7 +16,7 @@ Geoinformatics Research Days welcomes contributions from all areas of geospatial
 for sharing ideas, methods, and innovations across the discipline. This year's **spotlight theme, Geospatial Intelligence for Sustainable 
 Futures**, explores how emerging forms of spatial intelligence and AI are transforming our understanding of people, places, and the 
 complex systems that connect them. We invite submissions that link AI-driven geospatial innovation with questions of sustainability, 
-resilience, accessibility, and spatial justice across scales—from everyday mobility to global change.
+resilience, biodiversity, accessibility, and spatial justice across scales—from everyday mobility to global change.
 
 Topics of interest
 ----------------------
@@ -24,7 +24,7 @@ Topics of interest
 Submissions are welcome in, but not limited to, the following areas:
 
 1. Geospatial Intelligence and AI
-2. Environmental Change, Resilience, and Sustainability 
+2. Environmental Change, Resilience, Biodiversity and Sustainability 
 3. Urban Analytics, Mobility, and Smart Cities   
 4. Participatory GIS, Citizen Science, and Spatial Justice 
 5. Remote Sensing, Earth Observation, and Spatial Modelling 
@@ -40,27 +40,31 @@ for a more sustainable and interconnected world.
 Submission guidelines
 ----------------------
 
-Presenters are invited to submit an abstract of a maximum of 500 words (approximately one page of text) in English. 
+Presenters are invited to `submit <https://grd-finland.space/openconf.php>`_ an abstract of a maximum of 500 words (approximately one page of text) in English. 
 
 All submitted papers will be peer-reviewed to ensure the quality of the contributions. 
 All accepted publications will be given a chance to present their work at the *Geoinformatics Research Days 2026*.
 
 Important dates
 ======================
-.. attention:: 
-    - Abstract `Submission Opens <https://grd-finland.space/openconf.php>`_: November 24th, 2025
-    - Abstract Submission Deadline: January 8th, 2026
-    - Notification of Acceptance: To be announced
-    - Conference Dates: May 11-12, 2026
+
+- `Abstract submission <https://grd-finland.space/openconf.php>`_ opens: November 24th, 2025
+- Abstract submission deadline: January 8th, 2026
+- Notification of acceptance: To be announced
+- Participant registration opens: To be announced
+- Participant registration closes: To be announced
+- Conference Dates: May 11-12, 2026
 
 Event registration
 ====================
 
-.. admonition:: Registration
+Registration details for participation will be announced later.
 
-  Please confirm your attendance at the event by completing the registration form.
+.. .. admonition:: Registration
 
-  .. button-link:: #
+..   To confirm your participation in the event, please complete the registration form once registration opens.
+
+..   .. button-link:: #
       :color: primary
       :shadow:
       :align: center
@@ -108,7 +112,7 @@ Contact us
 
         For questions or further information, please contact us by email at **geoinfo-research-days@helsinki.fi**
 
-Event Sponsors
+Event Sponsors and Partners
 ===============
 
-.. figure:: _static/logos/helsinki_c.png
+.. figure:: _static/logos/sponsors_and_partners_2026.png
