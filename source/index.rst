@@ -1,4 +1,4 @@
-.. figure:: _static/banner_logos.png
+.. figure:: _static/banner_2026.png
 
 Welcome
 ======================
