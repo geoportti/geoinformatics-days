@@ -4,10 +4,10 @@ Welcome
 ======================
 
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
-which has been arranged by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
-for over 10 years. The event will take place on May 11-12, 2026 and will be organized by *University of Helsinki* together 
+which has been organized by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
+for over 10 years. The event will take place on May 11-12, 2026, and will be organized by *University of Helsinki* together 
 with the *Fiuginet* network, hosted in *Helsinki, Finland.* In addition, the Geoinformatics Research Days 2026 will 
-include the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_ where teams present their results.
+include the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_, where teams present their results.
 
 Call for Submissions
 ======================
@@ -33,7 +33,7 @@ Submissions are welcome in, but not limited to, the following areas:
 8. Education, Methods, and Emerging Technologies in Geoinformatics
 9. General Advances in GIScience and Geoinformatics      
 
-Your participation in the Geoinformatics Research Days 2026 will make a significant contributions, foster collaboration,
+Your participation in the Geoinformatics Research Days 2026 will make a significant contribution, foster collaboration,
 and shape the future of Geoinformatics. Together, let's advance the understanding and application of geospatial technologies 
 for a more sustainable and interconnected world.
 
@@ -42,8 +42,8 @@ Submission guidelines
 
 Presenters are invited to `submit <https://grd-finland.space/openconf.php>`_ an abstract of a maximum of 500 words (approximately one page of text) in English. 
 
-All submitted papers will be peer-reviewed to ensure the quality of the contributions. 
-All accepted publications will be given a chance to present their work at the *Geoinformatics Research Days 2026*.
+All submitted abstracts will be peer-reviewed to ensure the quality of the contributions. 
+All accepted submissions will be given a chance to present their work at the *Geoinformatics Research Days 2026*.
 
 Important dates
 ======================
@@ -53,7 +53,7 @@ Important dates
 - Notification of acceptance: To be announced
 - Participant registration opens: To be announced
 - Participant registration closes: To be announced
-- Conference Dates: May 11-12, 2026
+- Conference dates: May 11-12, 2026
 
 Event registration
 ====================
@@ -75,7 +75,7 @@ Registration details for participation will be announced later.
 Venue
 ======
 
-Event will be held at: **Porthania building, the City Centre Campus, University of Helsinki**, Helsinki, Finland.
+The event will be held at: **Porthania building, the City Centre Campus, University of Helsinki**, Helsinki, Finland.
 
 .. Porthania, aula
 .. DAY 1: Porthania, PIII + Porthania, P673
