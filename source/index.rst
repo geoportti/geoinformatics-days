@@ -18,7 +18,7 @@ Futures**, explores how emerging forms of spatial intelligence and AI are transf
 complex systems that connect them. We invite submissions that link AI-driven geospatial innovation with questions of sustainability, 
 resilience, biodiversity, accessibility, and spatial justice across scales—from everyday mobility to global change.
 
-Topics of interest
+Topics of Interest
 ----------------------
 
 Submissions are welcome in, but not limited to, the following areas:
@@ -37,25 +37,25 @@ Your participation in the Geoinformatics Research Days 2026 will make a signific
 and shape the future of Geoinformatics. Together, let's advance the understanding and application of geospatial technologies 
 for a more sustainable and interconnected world.
 
-Submission guidelines
+Submission Guidelines
 ----------------------
-.. `submit <https://grd-finland.space/openconf.php>`_
+
 Presenters are invited to submit an abstract of a maximum of 300 words in English.
 
 All submitted abstracts will be peer-reviewed to ensure the quality of the contributions. 
 All accepted submissions will be given a chance to present their work at the *Geoinformatics Research Days 2026*.
 
-Important dates
+Important Dates
 =================
-.. `Abstract Submission <https://grd-finland.space/openconf.php>`
+
 - Abstract Submission Opens: November 24th, 2025
 - Abstract Submission Deadline: January 8, 2026
 - Notification of Acceptance: February 2026
 - Participant Registration Opens: February 2026
-- Participant registration Closes: May 2026
+- Participant Registration Closes: May 2026
 - Conference Dates: May 11-12, 2026
 
-Event registration
+Event Registration
 ====================
 
 Registration will open in February 2026.
@@ -74,7 +74,7 @@ Registration will open in February 2026.
 Venue
 ======
 
-The event will be held at: **Porthania building, the City Centre Campus, University of Helsinki**, Helsinki, Finland.
+The event will be held at: **Porthania Building, the City Centre Campus, University of Helsinki**, Helsinki, Finland.
 
 .. Porthania, aula
 .. DAY 1: Porthania, PIII + Porthania, P673
@@ -96,13 +96,13 @@ The event will be held at: **Porthania building, the City Centre Campus, Univers
   <hr>
 
 
-Scientific committee
+Scientific Committee
 ====================
 
 To be announced.
 
 
-Contact us
+Contact Us
 ===============
 
 .. grid:: 1
