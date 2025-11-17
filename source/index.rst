@@ -3,7 +3,7 @@
 Welcome
 ======================
 
-The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts in Finland, 
+The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts, 
 which has been organized by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
 for over 10 years. The event will take place on May 11-12, 2026, and will be organized by *University of Helsinki* together 
 with the *Fiuginet* network, hosted in *Helsinki, Finland.* In addition, the Geoinformatics Research Days 2026 will 
@@ -39,26 +39,26 @@ for a more sustainable and interconnected world.
 
 Submission guidelines
 ----------------------
-
-Presenters are invited to `submit <https://grd-finland.space/openconf.php>`_ an abstract of a maximum of 500 words (approximately one page of text) in English. 
+.. `submit <https://grd-finland.space/openconf.php>`_
+Presenters are invited to submit an abstract of a maximum of 300 words in English.
 
 All submitted abstracts will be peer-reviewed to ensure the quality of the contributions. 
 All accepted submissions will be given a chance to present their work at the *Geoinformatics Research Days 2026*.
 
 Important dates
-======================
-
-- `Abstract submission <https://grd-finland.space/openconf.php>`_ opens: November 24th, 2025
-- Abstract submission deadline: January 8th, 2026
-- Notification of acceptance: To be announced
-- Participant registration opens: To be announced
-- Participant registration closes: To be announced
-- Conference dates: May 11-12, 2026
+=================
+.. `Abstract Submission <https://grd-finland.space/openconf.php>`
+- Abstract Submission Opens: November 24th, 2025
+- Abstract Submission Deadline: January 8, 2026
+- Notification of Acceptance: February 2026
+- Participant Registration Opens: February 2026
+- Participant registration Closes: May 2026
+- Conference Dates: May 11-12, 2026
 
 Event registration
 ====================
 
-Registration details for participation will be announced later.
+Registration will open in February 2026.
 
 .. .. admonition:: Registration
 
@@ -70,7 +70,6 @@ Registration details for participation will be announced later.
       :align: center
 
       Complete the Registration Form
-
 
 Venue
 ======
@@ -108,11 +107,11 @@ Contact us
 
 .. grid:: 1
 
-    .. grid-item-card:: :fas:`bell`
+    .. grid-item-card::
 
         For questions or further information, please contact us by email at **geoinfo-research-days@helsinki.fi**
 
-Event Sponsors and Partners
+Event Partners and Sponsors
 ===============
 
 .. figure:: _static/logos/sponsors_and_partners_2026.png
