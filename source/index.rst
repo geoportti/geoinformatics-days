@@ -5,7 +5,7 @@ Welcome
 
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts, 
 which has been organized by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
-for over 10 years. The event will take place on May 11-12, 2026, and will be organized by *University of Helsinki* together 
+for over 10 years. The event will take place on **May 11-12, 2026**, and will be organized by *University of Helsinki* together 
 with the *Fiuginet* network, hosted in *Helsinki, Finland.* In addition, the Geoinformatics Research Days 2026 will 
 include the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_, where teams present their results.
 
@@ -19,7 +19,7 @@ complex systems that connect them. We invite submissions that link AI-driven geo
 resilience, biodiversity, accessibility, and spatial justice across scales—from everyday mobility to global change.
 
 Topics of Interest
-----------------------
+-------------------
 
 Submissions are welcome in, but not limited to, the following areas:
 
@@ -58,7 +58,7 @@ Important Dates
 Event Registration
 ====================
 
-Registration will open in February 2026.
+Participant registration will open in February 2026.
 
 .. .. admonition:: Registration
 
@@ -74,7 +74,7 @@ Registration will open in February 2026.
 Venue
 ======
 
-The event will be held at: **Porthania Building, the City Centre Campus, University of Helsinki**, Helsinki, Finland.
+The event will be held at: **Porthania Building, City Center Campus, University of Helsinki**, Helsinki, Finland.
 
 .. Porthania, aula
 .. DAY 1: Porthania, PIII + Porthania, P673
