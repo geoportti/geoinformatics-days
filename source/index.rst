@@ -45,6 +45,19 @@ Presenters are invited to submit an abstract of a maximum of 300 words in Englis
 All submitted abstracts will be peer-reviewed to ensure the quality of the contributions. 
 All accepted submissions will be given a chance to present their work at the *Geoinformatics Research Days 2026*.
 
+Abstract Submission
+--------------------
+.. attention::
+
+    Abstract submission is now open!
+    
+    .. button-link:: https://grd-finland.space/openconf.php
+            :color: primary
+            :shadow:
+            :align: center
+
+            👉 Submit your abstract here
+
 Important Dates
 =================
 
