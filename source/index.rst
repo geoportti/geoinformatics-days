@@ -112,7 +112,13 @@ The event will be held at: **Porthania Building, City Center Campus, University 
 Scientific Committee
 ====================
 
-To be announced.
+- Di Minin, Prof. Enrico, University of Helsinki
+- Hasanzadeh, Dr. Kamyar, University of Helsinki
+- Järvi, Prof. Leena, University of Helsinki
+- Malekzadeh, Dr. Milad, University of Helsinki
+- Nikander, Dr. Jussi, Aalto University
+- Toivonen, Prof. Tuuli, University of Helsinki
+- Willberg, Dr. Elias, University of Helsinki
 
 
 Contact Us
