@@ -68,6 +68,18 @@ Important Dates
 - Participant Registration Closes: May 2026
 - Conference Dates: May 11-12, 2026
 
+Scientific Committee
+====================
+
+- Di Minin, Prof. Enrico, University of Helsinki
+- Hasanzadeh, Dr. Kamyar, University of Helsinki
+- Järvi, Prof. Leena, University of Helsinki
+- Malekzadeh, Dr. Milad, University of Helsinki
+- Nikander, Dr. Jussi, Aalto University
+- Toivonen, Prof. Tuuli, University of Helsinki
+- Willberg, Dr. Elias, University of Helsinki
+
+
 Event Registration
 ====================
 
@@ -107,18 +119,6 @@ The event will be held at: **Porthania Building, City Center Campus, University 
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
   <hr>
-
-
-Scientific Committee
-====================
-
-- Di Minin, Prof. Enrico, University of Helsinki
-- Hasanzadeh, Dr. Kamyar, University of Helsinki
-- Järvi, Prof. Leena, University of Helsinki
-- Malekzadeh, Dr. Milad, University of Helsinki
-- Nikander, Dr. Jussi, Aalto University
-- Toivonen, Prof. Tuuli, University of Helsinki
-- Willberg, Dr. Elias, University of Helsinki
 
 
 Contact Us
