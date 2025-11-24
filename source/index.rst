@@ -58,16 +58,6 @@ Abstract Submission
 
             👉 Submit your abstract here
 
-Important Dates
-=================
-
-- Abstract Submission Opens: November 24th, 2025
-- Abstract Submission Deadline: January 8, 2026
-- Notification of Acceptance: February 2026
-- Participant Registration Opens: February 2026
-- Participant Registration Closes: May 2026
-- Conference Dates: May 11-12, 2026
-
 Scientific Committee
 ====================
 
@@ -78,6 +68,16 @@ Scientific Committee
 - Nikander, Dr. Jussi, Aalto University
 - Toivonen, Prof. Tuuli, University of Helsinki
 - Willberg, Dr. Elias, University of Helsinki
+
+Important Dates
+=================
+
+- Abstract Submission Opens: November 24th, 2025
+- Abstract Submission Deadline: January 8, 2026
+- Notification of Acceptance: February 2026
+- Participant Registration Opens: February 2026
+- Participant Registration Closes: May 2026
+- Conference Dates: May 11-12, 2026
 
 
 Event Registration
