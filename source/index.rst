@@ -1,6 +1,6 @@
 .. figure:: _static/banner_2026.png
 
-Welcome
+Geoinformatics Research Days 2026
 ======================
 
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts, 

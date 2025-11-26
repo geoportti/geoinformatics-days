@@ -37,7 +37,7 @@ exclude_patterns = []
 
 html_theme = "pydata_sphinx_theme"
 html_logo = '_static/grd_menu.png' 
-html_title = "Geoinformatics Research Days 2026"
+html_title = "Welcome"
 
 html_static_path = ['_static']
 
