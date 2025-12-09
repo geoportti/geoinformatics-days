@@ -61,12 +61,15 @@ Abstract Submission
 Scientific Committee
 ====================
 
+- Antikainen, Dr. Harri, University of Oulu
 - Di Minin, Prof. Enrico, University of Helsinki
 - Hasanzadeh, Dr. Kamyar, University of Helsinki
 - Järvi, Prof. Leena, University of Helsinki
 - Malekzadeh, Dr. Milad, University of Helsinki
 - Nikander, Dr. Jussi, Aalto University
+- Rinne, Asst. Prof. Tiina, Tampere University
 - Toivonen, Prof. Tuuli, University of Helsinki
+- Tuominen, Dr. Pekka, University of Helsinki
 - Willberg, Dr. Elias, University of Helsinki
 
 Important Dates
