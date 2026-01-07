@@ -72,13 +72,47 @@ Scientific Committee
 - Tuominen, Dr. Pekka, University of Helsinki
 - Willberg, Dr. Elias, University of Helsinki
 
+Keynote speakers
+----------------
+
+We are pleased to announce that Dr. Spencer Wood (University of Washington) and Professor Laura Ruotsalainen 
+(University of Helsinki) have been confirmed as keynote speakers for Geoinformatics Research Days 2026.
+
+.. grid:: 2
+   :gutter: 2
+
+   .. grid-item-card:: Dr. Spencer Wood |br| University of Washington
+      :text-align: center
+
+      .. figure:: _static/Spencer_Wood_Avatar.jpg
+         :class: sd-avatar-xl
+
+      Principal Research Scientist and Data Science Fellow at the University of
+      Washington. His research applies data science and quantitative methods to
+      sustainability and environmental decision-making in real-world contexts.     
+
+   .. grid-item-card:: Prof. Laura Ruotsalainen |br| University of Helsinki
+      :text-align: center
+
+      .. figure:: _static/Laura_Ruotsalainen_avatar.png
+         :class: sd-avatar-xl
+
+      Professor of Spatiotemporal Data Analysis for Sustainability Science at the
+      University of Helsinki. She leads research on machine learning and computer
+      vision methods for spatiotemporal data, with applications in sustainable smart
+      cities and smart mobility.     
+
+.. |br| raw:: html
+
+   <br>
+
 Important Dates
 =================
 
-- Abstract Submission Opens: November 24th, 2025
-- Abstract Submission Deadline: January 8, 2026
-- Notification of Acceptance: February 2026
-- Participant Registration Opens: February 2026
+- Abstract Submission Opens: November 24, 2025
+- Abstract Submission Deadline: February 6, 2026 (extended from January 8, 2026)
+- Notification of Acceptance: March 2026 (updated)
+- Participant Registration Opens: March 2026 (updated)
 - Participant Registration Closes: May 2026
 - Conference Dates: May 11-12, 2026
 
@@ -86,7 +120,7 @@ Important Dates
 Event Registration
 ====================
 
-Participant registration will open in February 2026.
+Participant registration will open in March 2026.
 
 .. .. admonition:: Registration
 

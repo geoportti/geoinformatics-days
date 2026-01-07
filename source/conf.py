@@ -59,7 +59,7 @@ html_theme_options = {
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Call for Abstracts Now Open — Submit by January 8, 2026', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Call for Abstracts Now Open — Deadline Extended to February 6, 2026', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
