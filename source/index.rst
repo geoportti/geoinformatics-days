@@ -73,7 +73,7 @@ Scientific Committee
 - Willberg, Dr. Elias, University of Helsinki
 
 Keynote speakers
-----------------
+=================
 
 We are pleased to announce that Dr. Spencer Wood (University of Washington) and Professor Laura Ruotsalainen 
 (University of Helsinki) have been confirmed as keynote speakers for Geoinformatics Research Days 2026.
