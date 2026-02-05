@@ -49,14 +49,8 @@ Abstract Submission
 --------------------
 .. attention::
 
-    Abstract submission is now open!
+    Abstract submissions are now closed.
     
-    .. button-link:: https://grd-finland.space/openconf.php
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Submit your abstract here
 
 Scientific Committee
 ====================
