@@ -59,6 +59,7 @@ Scientific Committee
 - Di Minin, Prof. Enrico, University of Helsinki
 - Hasanzadeh, Dr. Kamyar, University of Helsinki
 - Järvi, Prof. Leena, University of Helsinki
+- Kettunen, Dr. Pyry, Finnish Geospatial Research Institute
 - Malekzadeh, Dr. Milad, University of Helsinki
 - Nikander, Dr. Jussi, Aalto University
 - Rinne, Asst. Prof. Tiina, Tampere University
