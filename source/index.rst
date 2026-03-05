@@ -6,8 +6,12 @@ Geoinformatics Research Days 2026
 The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts, 
 which has been organized by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
 for over 10 years. The event will take place on **May 11-12, 2026**, and will be organized by *University of Helsinki* together 
-with the *Fiuginet* network, hosted in *Helsinki, Finland.* In addition, the Geoinformatics Research Days 2026 will 
-include the final event of the `Geospatial Challenge Camp 2026 <https://challenge-camp.geoportti.fi/>`_, where teams present their results.
+with the *Fiuginet* network, hosted in *Helsinki, Finland.* **Attendance is free of charge.**
+
+The programme includes the **final event of the Geospatial Challenge Camp (GCC) on Monday, 11 May, 13:00–17:00**, where multidisciplinary 
+teams of early-career researchers present their solutions to real-world sustainability challenges using geospatial data and technologies. 
+Learn more at the `Geospatial Challenge Camp website <https://challenge-camp.geoportti.fi/>`_.
+
 
 Call for Submissions
 ======================
@@ -56,7 +60,6 @@ Scientific Committee
 ====================
 
 - Antikainen, Dr. Harri, University of Oulu
-- Di Minin, Prof. Enrico, University of Helsinki
 - Hasanzadeh, Dr. Kamyar, University of Helsinki
 - Järvi, Prof. Leena, University of Helsinki
 - Kettunen, Dr. Pyry, Finnish Geospatial Research Institute
@@ -108,30 +111,52 @@ Important Dates
 - Abstract Submission Deadline: February 6, 2026 (extended from January 8, 2026)
 - Notification of Acceptance: March 2026 (updated)
 - Participant Registration Opens: March 2026 (updated)
-- Participant Registration Closes: May 2026
+- Participant Registration Closes: April 29, 2026
+- Presenter Registration Deadline: April 8, 2026
 - Conference Dates: May 11-12, 2026
-
 
 Event Registration
 ====================
 
-Participant registration will open in March 2026.
+**Participant registration is open until April 29, 2026.**
 
-.. .. admonition:: Registration
+**Note:** Presenters must register by April 8, 2026.
 
-..   To confirm your participation in the event, please complete the registration form once registration opens.
+.. attention::
 
-..   .. button-link:: #
-      :color: primary
-      :shadow:
-      :align: center
+    Registration is free of charge.
 
-      Complete the Registration Form
+    .. button-link:: https://www.lyyti.fi/reg/Geoinformatics_Research_Days_2026_7606
+            :color: primary
+            :shadow:
+            :align: center
+
+            👉 Register here!
+
+
+Schedule
+========
+Sessions run in room PIII (1st floor) and, during parallel sessions, room P673 (6th floor, elevator available).
+
+.. raw:: html
+
+    <div>
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRf5MVGngOaVeBMiNnMcoJY1MzaUwsQrf8uyjPCVUZeckzpEjW5R13y04_WTsU97A/pub?embedded=true"
+            frameborder=0 
+            width="1200" 
+            height="2000"
+            allowfullscreen="true"  
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true">
+        </iframe>
+    </div>
 
 Venue
 ======
 
-The event will be held at: **Porthania Building, City Center Campus, University of Helsinki**, Helsinki, Finland.
+The event will be held at **Porthania Building, City Center Campus, University of Helsinki**, Helsinki, Finland. 
+
+The main room is PIII (1st floor). P673 on the 6th floor hosts parallel sessions and is reachable by elevator.
 
 .. Porthania, aula
 .. DAY 1: Porthania, PIII + Porthania, P673
@@ -166,3 +191,5 @@ Event Partners and Sponsors
 ===============
 
 .. figure:: _static/logos/sponsors_and_partners_2026.png
+      :width: 60%
+      :align: left
