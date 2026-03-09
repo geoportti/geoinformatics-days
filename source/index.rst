@@ -53,7 +53,7 @@ Abstract Submission
 --------------------
 .. attention::
 
-    Abstract submissions are now closed. **Find your submission `here <https://grd-finland.space/openconf.php>`_.**
+    Abstract submissions are now closed. Find your submission `here <https://grd-finland.space/openconf.php>`_.
     
 
 Scientific Committee
