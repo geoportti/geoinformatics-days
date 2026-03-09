@@ -144,7 +144,7 @@ Sessions run in room PIII (1st floor) and, during parallel sessions, room P673 (
         <iframe src="https://docs.google.com/document/d/e/2PACX-1vRf5MVGngOaVeBMiNnMcoJY1MzaUwsQrf8uyjPCVUZeckzpEjW5R13y04_WTsU97A/pub?embedded=true"
             frameborder=0 
             width="1200" 
-            height="2000"
+            height="1000"
             allowfullscreen="true"  
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">
