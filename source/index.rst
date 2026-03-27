@@ -8,7 +8,7 @@ which has been organized by the member universities of the **Finnish University 
 for over 10 years. The event will take place on **May 11-12, 2026**, and will be organized by *University of Helsinki* together 
 with the *Fiuginet* network, hosted in *Helsinki, Finland.* **Attendance is free of charge.**
 
-The programme includes the **final event of the Geospatial Challenge Camp (GCC) on Monday, 11 May, 13:00–17:00**, where multidisciplinary 
+The program includes the **final event of the Geospatial Challenge Camp (GCC) on Monday, 11 May, 13:00–17:00**, where multidisciplinary 
 teams of early-career researchers present their solutions to real-world sustainability challenges using geospatial data and technologies. 
 Learn more at the `Geospatial Challenge Camp website <https://challenge-camp.geoportti.fi/>`_.
 
