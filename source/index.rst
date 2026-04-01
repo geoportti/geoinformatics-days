@@ -136,7 +136,6 @@ Event Registration
 
 Schedule
 ========
-Sessions run in room PIII (1st floor) and, during parallel sessions, room P673 (6th floor, elevator available).
 
 .. raw:: html
 
