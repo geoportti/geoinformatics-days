@@ -156,11 +156,15 @@ Venue
 
 The event will be held at **Porthania Building, City Center Campus, University of Helsinki**, Helsinki, Finland. 
 
-The main room is PIII (1st floor). P673 on the 6th floor hosts parallel sessions and is reachable by elevator.
+**The main room (PIII, 1st floor)** is used for all sessions except when parallel sessions are running.
 
-.. Porthania, aula
-.. DAY 1: Porthania, PIII + Porthania, P673
-.. DAY 2: Porthania, PIII +  Porthania, P722
+Parallel sessions take place on the 6th floor:
+
+- Day 1: P673
+- Day 2: P674
+
+*Parallel session rooms are located next to each other and are reachable by elevator.*
+
 
 .. raw:: html
   <div>
