@@ -78,6 +78,7 @@ Scientific Committee
 ====================
 
 - Antikainen, Dr. Harri, University of Oulu
+- Di Minin, Prof. Enrico, University of Helsinki
 - Hasanzadeh, Dr. Kamyar, University of Helsinki
 - Järvi, Prof. Leena, University of Helsinki
 - Kettunen, Dr. Pyry, Finnish Geospatial Research Institute
@@ -101,6 +102,9 @@ Keynotes
 ----------
 The keynote sessions feature leading research in geospatial data science and sustainability, 
 presented by Dr. Spencer Wood (University of Washington) and Prof. Laura Ruotsalainen (University of Helsinki).
+
+The keynotes will also be streamed online as part of `GeoSPA <https://geospa.org/>`_.
+Online participants are required to register to receive access to the stream.
 
 .. grid:: 2
    :gutter: 2
