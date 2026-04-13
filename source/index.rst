@@ -3,17 +3,28 @@
 Geoinformatics Research Days 2026
 ======================
 
-The *Geoinformatics Research Days* event is the annual gathering for geoinformatics experts, 
-which has been organized by the member universities of the **Finnish University Network for Geoinformatics (Fiuginet)** 
-for over 10 years. The event will take place on **May 11-12, 2026**, and will be organized by *University of Helsinki* together 
-with the *Fiuginet* network, hosted in *Helsinki, Finland.* **Attendance is free of charge.**
+The *Geoinformatics Research Days* (GRD) event is the annual gathering for geoinformatics experts, 
+which has been organized by the member universities of the Finnish University Network for Geoinformatics 
+(`Fiuginet <https://www.geoportti.fi/services/skills-development/fiuginet/>`_) 
+for over 10 years. The event will take place on **May 11-12, 2026**, and will be organized by University of Helsinki together 
+with the Fiuginet network, hosted in Helsinki, Finland. **Attendance is free of charge.**
 
-The program includes the **final event of the Geospatial Challenge Camp (GCC) on Monday, 11 May, 13:00–17:00**, where multidisciplinary 
-teams of early-career researchers present their solutions to real-world sustainability challenges using geospatial data and technologies. 
+The program includes the **Final Event of the Geospatial Challenge Camp (GCC)**, where multidisciplinary 
+teams of early-career researchers and students present solutions to real-world sustainability challenges using geospatial data and technologies. 
 Learn more at the `Geospatial Challenge Camp website <https://challenge-camp.geoportti.fi/>`_.
 
+Important Dates
+=================
 
-Call for Submissions
+- Abstract Submission Opens: November 24, 2025
+- Abstract Submission Deadline: February 6, 2026 (extended from January 8, 2026)
+- Notification of Acceptance: March 2026 (updated)
+- Registration Opens: March 2026 (updated)
+- Presenter Registration Deadline: April 8, 2026
+- **Registration Closes: April 29, 2026**
+- Conference Dates: May 11-12, 2026
+
+Call for Abstracts
 ======================
 
 Geoinformatics Research Days welcomes contributions from all areas of geospatial research and applications, providing an open platform 
@@ -53,8 +64,15 @@ Abstract Submission
 --------------------
 .. attention::
 
-    Abstract submissions are now closed. Find your submission `here <https://grd-finland.space/openconf.php>`_.
+    **Abstract submission is now closed.** You can still access the submission system to view or manage your submission.
     
+    .. button-link:: https://grd-finland.space/openconf.php
+            :color: primary
+            :shadow:
+            :align: center
+
+            👉 Go to submission system
+
 
 Scientific Committee
 ====================
@@ -70,11 +88,19 @@ Scientific Committee
 - Tuominen, Dr. Pekka, University of Helsinki
 - Willberg, Dr. Elias, University of Helsinki
 
-Keynote speakers
-=================
+Program
+========
 
-We are pleased to announce that Dr. Spencer Wood (University of Washington) and Professor Laura Ruotsalainen 
-(University of Helsinki) have been confirmed as keynote speakers for Geoinformatics Research Days 2026.
+The program includes the **Final Event of the Geospatial Challenge Camp (GCC) on Monday, 11 May, 13:00–17:00**, where multidisciplinary 
+teams of early-career researchers and students present their solutions to real-world mobility and transportation challenges using 
+geospatial data and technologies. All participants are warmly invited to join the
+`Final Event <https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html>`_, where they can experience fresh perspectives, 
+practical ideas, and insights into emerging geospatial talent.
+
+Keynotes
+----------
+The keynote sessions feature leading research in geospatial data science and sustainability, 
+presented by Dr. Spencer Wood (University of Washington) and Prof. Laura Ruotsalainen (University of Helsinki).
 
 .. grid:: 2
    :gutter: 2
@@ -87,7 +113,10 @@ We are pleased to announce that Dr. Spencer Wood (University of Washington) and 
 
       Principal Research Scientist and Data Science Fellow at the University of
       Washington. His research applies data science and quantitative methods to
-      sustainability and environmental decision-making in real-world contexts.     
+      sustainability and environmental decision-making in real-world contexts,
+      including ecology, conservation, and sustainable development, with a focus on practical 
+      policy and management applications. |br| |br| **Time:** 9:30-10:30, **May 11**
+      |br| **Location:** PIII (1st floor)
 
    .. grid-item-card:: Prof. Laura Ruotsalainen |br| University of Helsinki
       :text-align: center
@@ -96,59 +125,86 @@ We are pleased to announce that Dr. Spencer Wood (University of Washington) and 
          :class: sd-avatar-xl
 
       Professor of Spatiotemporal Data Analysis for Sustainability Science at the
-      University of Helsinki. She leads research on machine learning and computer
-      vision methods for spatiotemporal data, with applications in sustainable smart
-      cities and smart mobility.     
+      University of Helsinki. Her research applies machine learning, computer vision, 
+      and estimation methods to spatiotemporal data for sustainable smart cities, with a 
+      focus on smart mobility and sustainability applications, and she leads research in AI for 
+      sustainability. |br| |br| **Time:** 9:00-10:00, **May 12** |br| **Location:** PIII (1st floor)  
+|
+
+Panel Discussion
+--------------
+This panel brings together experts from research, government, and industry to discuss how geospatial intelligence 
+and innovation can support sustainable futures in practice. 
+
+**Time:** 14:30-15:30, **May 12**
+
+**Location:** PIII (1st floor).
+
+.. grid:: 2
+   :gutter: 2
+
+   .. grid-item-card:: Tuuli Toivonen |br| Moderator |br| University of Helsinki
+      :text-align: center
+
+      .. figure:: _static/Tuuli_Toivonen_avatar.jpg
+         :class: sd-avatar-xl 
+      Professor of Geoinformatics and leader of the Digital Geography Lab. Her research uses novel data sources and spatial 
+      analysis to support environmental and sustainable land use planning. She works across urban and natural systems at multiple 
+      scales, from global to local, focusing on accessibility, mobility, and biodiversity conservation.
+
+   .. grid-item-card:: Emilia Suomalainen |br| Panelist |br| SYKE
+      :text-align: center
+
+      .. figure:: _static/Emilia_Suomalainen_avatar.jpg
+         :class: sd-avatar-xl 
+
+      Principal Researcher at the Finnish Environment Institute (Syke). Her research focuses 
+      on sustainable transport and mobility, notably using quantitative methods to assess 
+      the potential for active and sustainable travel modes. Her work links to mobility justice and 
+      circular economy perspectives related to transport infrastructure and micro-mobility.
+
+   .. grid-item-card:: Henri Riihimäki |br| Panelist |br| ICEYE
+      :text-align: center
+
+      .. figure:: _static/Henri_Riihimaki._avatar.jpeg
+         :class: sd-avatar-xl
+
+      Geospatial product engineering leader focused on building actionable solutions for real-world use. 
+      He leads analytics teams that transform Earth observation and geospatial data into scalable solutions for 
+      monitoring natural hazards such as floods and wildfires. His work sits at the intersection of Earth observation, 
+      spatial modeling, and product engineering, with a background in forestry, remote sensing, and environmental research.
+
+   .. grid-item-card:: Johanna Palomäki |br| Panelist |br| City of Lahti
+      :text-align: center
+
+      .. figure:: _static/Johanna_Palomaki_avatar.jpg
+         :class: sd-avatar-xl
+
+      City Architect and Head of Urban Planning for the City of Lahti, Finland. A long-standing advocate of participatory planning, 
+      she has led pioneering map-based surveys in Lahti and Espoo with Aalto University, systematically integrating citizens’ 
+      place-based knowledge into municipal GIS and decision-making, highlighting the role of geospatial data in advancing public health, 
+      wellbeing, and sustainable, people-centered cities.
 
 .. |br| raw:: html
 
    <br>
 
-Important Dates
-=================
-
-- Abstract Submission Opens: November 24, 2025
-- Abstract Submission Deadline: February 6, 2026 (extended from January 8, 2026)
-- Notification of Acceptance: March 2026 (updated)
-- Participant Registration Opens: March 2026 (updated)
-- Participant Registration Closes: April 29, 2026
-- Presenter Registration Deadline: April 8, 2026
-- Conference Dates: May 11-12, 2026
-
-Event Registration
-====================
-
-**Participant registration is open until April 29, 2026.**
-
-**Note:** Presenters must register by April 8, 2026.
-
-.. attention::
-
-    Registration is free of charge.
-
-    .. button-link:: https://www.lyyti.fi/reg/Geoinformatics_Research_Days_2026_7606
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Register here!
-
+|
 
 Schedule
-========
+-------------
 
 .. raw:: html
 
-    <div>
         <iframe src="https://docs.google.com/document/d/e/2PACX-1vRf5MVGngOaVeBMiNnMcoJY1MzaUwsQrf8uyjPCVUZeckzpEjW5R13y04_WTsU97A/pub?embedded=true"
             frameborder=0 
             width="1200" 
-            height="1000"
+            height="1400"
             allowfullscreen="true"  
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">
         </iframe>
-    </div>
+
 
 Venue
 ======
@@ -162,8 +218,7 @@ Parallel sessions take place on the 6th floor:
 - Day 1: P673
 - Day 2: P674
 
-*Parallel session rooms are located next to each other and are reachable by elevator.*
-
+*Parallel session rooms are located next to each other and are reachable by elevator or stairs.*
 
 .. raw:: html
   <div>
@@ -178,7 +233,40 @@ Parallel sessions take place on the 6th floor:
     loading="lazy" 
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
-  <hr>
+  <hr> 
+
+
+Registration
+==============
+
+**The event is free of charge and open to all, but registration is required.** Places are limited, 
+so we encourage you to register early to secure your spot.
+
+We warmly invite all interested in the field to participate, including researchers, industry professionals, 
+public sector experts, and students.
+
+**Registration is open until April 29, 2026.**
+
+**Note:** Presenters must register by April 8, 2026.
+
+.. attention::
+
+    Register here to secure your spot.
+
+    .. button-link:: https://www.lyyti.fi/reg/Geoinformatics_Research_Days_2026_7606
+            :color: primary
+            :shadow:
+            :align: center
+
+            👉 Register here!
+
+
+Practical Information
+==============
+This is a free conference. Please note:
+
+- **Meals & refreshments:** Coffee/tea breaks are scheduled, but lunch is not provided. Attendees are welcome to bring their own food or explore nearby dining options.
+- **Accommodation & travel:** No support is provided. For visitor information and local recommendations, see the `University of Helsinki Visitor Guide <https://www.helsinki.fi/en/about-us/visit-us/guide-visitors>`_.
 
 
 Contact Us
@@ -193,6 +281,4 @@ Contact Us
 Event Partners and Sponsors
 ===============
 
-.. figure:: _static/logos/sponsors_and_partners_2026.png
-      :width: 60%
-      :align: left
+.. figure:: _static/sponsors_and_partners_2026.png

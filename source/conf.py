@@ -45,6 +45,7 @@ html_context = {
    "default_mode": "light"
 }
 
+# ----- versioning
 json_url = '_static\switcher.json'
 
 version_match = "v1.0"
@@ -59,7 +60,7 @@ html_theme_options = {
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Participant Registration Is Now Open — Register by April 29, 2026', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Registration Is Now Open — Register by April 29, 2026', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
@@ -71,7 +72,7 @@ html_theme_options = {
             # Label for this link
             "name": "GitHub",
             # URL where the link will redirect
-            "url": "https://github.com/geoportti/geospatial-challenge-camp",  # required
+            "url": "https://github.com/geoportti/geoinformatics-days",  # required
             # Icon class (if "type": "fontawesome"), or path to local image (if "type": "local")
             "icon": "fa-brands fa-square-github",
             # The type of image to be used (see below for details)
