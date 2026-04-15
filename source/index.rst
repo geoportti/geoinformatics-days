@@ -98,6 +98,9 @@ geospatial data and technologies. All participants are warmly invited to join th
 `Final Event <https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html>`_, where they can experience fresh perspectives, 
 practical ideas, and insights into emerging geospatial talent.
 
+Parallel sessions are listed in a separate `Parallel Sessions page <https://geoinformaticsdays.geoportti.fi/en/latest/pages/parallel_sessions.html>`_,
+including detailed schedules, locations, chairs, and presentations.
+
 Keynotes
 ----------
 The keynote sessions feature leading research in geospatial data science and sustainability, 
@@ -286,3 +289,10 @@ Event Partners and Sponsors
 ===============
 
 .. figure:: _static/sponsors_and_partners_2026.png
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :hidden:
+
+   Parallel Sessions <pages/parallel_sessions>
