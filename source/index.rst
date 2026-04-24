@@ -273,12 +273,14 @@ Practical Information
 This is a free conference. Please note:
 
 - **Meals & refreshments:** Coffee/tea breaks are scheduled throughout the day. Lunch is not provided, but attendees are welcome to bring their own food or explore several dining options within walking distance. 
-- **Lunch break:** 12:00-13:00. We recommend checking menus ahead of time, as the 1-hour break is tight. 
+- **Lunch break:** 12:00-13:00. We will organize a group lunch outing, but you are also welcome to eat elsewhere. We recommend checking menus ahead of time, as the 1-hour break is tight.
 - **A few suggestions for lunch places:**
-   - `Porthania UniCafe <https://unicafe.fi/en/restaurants/porthania/>`_ in the same building, 2nd floor
-   - `Think Corner Cafe <https://www.helsinki.fi/en/think-corner/services/think-corner-cafe/>`_ across the street from Porthania
-   - `Kluuvi <https://www.kluuvi.fi/en/restaurants-and-cafes/>`_ across the streetn from Porthania, next to Think Corner
-   - **More options:** Aleksanterinkatu and Mikonkatu areas nearby have many restaurants.
+   - University restaurants:
+      - `Porthania UniCafe <https://unicafe.fi/en/restaurants/porthania/>`_ in the same building, 2nd floor
+      - `Think Corner Cafe <https://www.helsinki.fi/en/think-corner/services/think-corner-cafe/>`_ across the street from Porthania
+   - Other nearby restaurants:
+      - `Kluuvi shopping centre <https://www.kluuvi.fi/en/restaurants-and-cafes/>`_ across the street from Porthania has multiple options, next to Think Corner
+      - Aleksanterinkatu and Mikonkatu areas nearby also have many restaurants.
 - **Accommodation & travel:** No support is provided. For visitor information and local recommendations, see the `University of Helsinki Visitor Guide <https://www.helsinki.fi/en/about-us/visit-us/guide-visitors>`_.
 
 
