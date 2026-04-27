@@ -112,13 +112,13 @@ Online participants are required to register to receive access to the stream.
 .. grid:: 2
    :gutter: 2
 
-   .. grid-item-card:: Dr. Spencer Wood |br| University of Washington
+   .. grid-item-card:: Prof. Spencer Wood |br| University of Washington
       :text-align: center
 
       .. figure:: _static/Spencer_Wood_Avatar.jpg
          :class: sd-avatar-xl
 
-      Principal Research Scientist and Data Science Fellow at the University of
+      Professor, Principal Research Scientist and Data Science Fellow at the University of
       Washington. His research applies data science and quantitative methods to
       sustainability and environmental decision-making in real-world contexts,
       including ecology, conservation, and sustainable development, with a focus on practical 
