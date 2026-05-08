@@ -203,15 +203,33 @@ Schedule
 
 .. raw:: html
 
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRf5MVGngOaVeBMiNnMcoJY1MzaUwsQrf8uyjPCVUZeckzpEjW5R13y04_WTsU97A/pub?embedded=true"
-            frameborder=0 
-            width="1200" 
-            height="1400"
-            allowfullscreen="true"  
-            mozallowfullscreen="true" 
-            webkitallowfullscreen="true">
-        </iframe>
 
+   <div style="margin: 20px 0; margin-bottom: 20px;">
+     <a href="_static/GRD2026_fullschedule.pdf" class="btn btn-primary" style="padding: 10px 15px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold;">
+       📥 Download PDF
+     </a>
+   </div>
+
+   <object 
+     id="pdf-viewer"
+     data="_static/GRD2026_fullschedule.pdf" 
+     type="application/pdf" 
+     width="100%" 
+     height="800px"
+     style="border: 1px solid #ddd; border-radius: 4px; display: block;">
+     <p>Your browser doesn't support embedded PDFs. 
+       <a href="_static/GRD2026_fullschedule.pdf"><strong>Download the schedule here</strong></a>
+     </p>
+   </object>
+
+..        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRf5MVGngOaVeBMiNnMcoJY1MzaUwsQrf8uyjPCVUZeckzpEjW5R13y04_WTsU97A/pub?embedded=true"
+..            frameborder=0 
+..            width="1200" 
+..            height="1400"
+..            allowfullscreen="true"  
+..           mozallowfullscreen="true" 
+..            webkitallowfullscreen="true">
+..        </iframe>
 
 Venue
 ======
@@ -272,6 +290,7 @@ Practical Information
 ==============
 This is a free conference. Please note:
 
+- **WiFi:** For connection instructions, see the `University WiFi Guide <https://helpdesk.it.helsinki.fi/en/help/11079>`_.
 - **Meals & refreshments:** Coffee/tea breaks are scheduled throughout the day. Lunch is not provided, but attendees are welcome to bring their own food or explore several dining options within walking distance. 
 - **Lunch breaks:** We will organize group lunch outings both days, but you are also welcome to eat elsewhere. We recommend checking menus ahead of time, as the 1-hour break is tight.
 - **A few suggestions for lunch places:**
