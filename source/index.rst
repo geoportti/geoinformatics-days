@@ -201,6 +201,9 @@ and innovation can support sustainable futures in practice.
 Schedule
 -------------
 
+Registration is also possible during lunch and coffee breaks.
+
+
 .. raw:: html
 
 
