@@ -60,7 +60,7 @@ html_theme_options = {
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    #'announcement': 'Registration Is Now Open — Register by April 29, 2026', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Geoinformatics Research Days 2026 has ended. Thank you to all presenters and participants! Stay tuned for updates on the 2027 event.', #to add urgent messages
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
