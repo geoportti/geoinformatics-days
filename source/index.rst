@@ -46,7 +46,7 @@ Submission Guidelines
 Presenters are invited to submit an abstract of a maximum of 300 words in English.
 
 All submitted abstracts will be peer-reviewed to ensure the quality of the contributions. 
-All accepted submissions will be given a chance to present their work at the *Geoinformatics Research Days 2027*.
+All accepted submissions will be given a chance for an oral presentation or a poster at the *Geoinformatics Research Days 2027*.
 
 Abstract Submission
 --------------------
@@ -79,14 +79,14 @@ TBA
 
 
 
-Venue
-======
+.. Venue
+.. ======
 
-The event will be held at **Main Building, City Center Campus, University of Helsinki**, Helsinki, Finland. 
+.. The event will be held at **Main Building, City Center Campus, University of Helsinki**, Helsinki, Finland. 
 
-More details TBA
+.. More details TBA
 
-.. raw:: html
+.. .. raw:: html
 
   <div>
   <hr>
