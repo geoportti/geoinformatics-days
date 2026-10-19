@@ -1,0 +1,5 @@
+/* The compact layout (conf.py) has no left sidebar, but on phones the theme still shows
+   its menu button, which then does nothing. Hide it. */
+button[aria-controls="lside"] {
+  display: none;
+}

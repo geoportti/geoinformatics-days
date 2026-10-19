@@ -61,14 +61,17 @@ html_theme_options = {
     'github_url': 'https://github.com/geoportti/geoinformatics-days',
     # hide the theme's "Open in ChatGPT/Claude" page links
     'show_ai_links': False,
-    # left sidebar: list the sections of the current page under its name
-    'toctree_titles_only': False,
+    # no left sidebar: pages are in the top bar, sections in the right sidebar
+    'page_layout': 'compact',
 }
 
-# right sidebar ("On this page", wide screens only); on phones it opens from the bar below the header
+# right sidebar: "On this page" (sections of the current page). Below ~1280px wide it opens
+# from the icon in the bar under the header.
 html_sidebars = {
     "**": ["sidebars/localtoc.html"],
 }
 
-# --------> static files (images); add html_css_files = ["css/<name>.css"] here if custom CSS is ever needed
+# --------> static files (images, custom CSS)
 html_static_path = ['_static']
+
+html_css_files = ["custom.css"]
