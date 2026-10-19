@@ -1,8 +1,12 @@
+.. Title used when the site is linked (previews in Slack, Teams, social media) and in search results;
+.. the heading shown on the page is "Welcome" below.
+.. title:: Geoinformatics Research Days 2027
+
 .. figure:: _static/banner.png
 
-=================================
-Geoinformatics Research Days 2027
-=================================
+=======
+Welcome
+=======
 
 The *Geoinformatics Research Days* (GRD) event is the annual gathering for geoinformatics experts, 
 which has been organized by the member universities of the Finnish University Network for Geoinformatics 

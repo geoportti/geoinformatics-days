@@ -3,3 +3,10 @@
 button[aria-controls="lside"] {
   display: none;
 }
+
+/* Announcement bar (text set in conf.py): solid accent color instead of the theme's
+   semi-transparent one, and centered text */
+.announcement {
+  --sy-c-banner-bg: var(--accent-9);
+  text-align: center;
+}
