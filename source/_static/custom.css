@@ -10,3 +10,10 @@ button[aria-controls="lside"] {
   --sy-c-banner-bg: var(--accent-9);
   text-align: center;
 }
+
+/* Top bar: solid page background (white in light mode) instead of the theme's see-through blur */
+.sy-head-blur {
+  background-color: var(--sy-c-background);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
