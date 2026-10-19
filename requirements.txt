@@ -1,11 +1,9 @@
 # python==3.10
-sphinx==7.1.2
-requests==2.28.1
+sphinx==8.1.3
+requests>=2.30
 matplotlib
-pydata-sphinx-theme
+shibuya==2026.7.12
 sphinx-togglebutton
 ipython
 sphinx_design
 sphinx-carousel
-sphinxawesome-theme
-sphinx-book-theme

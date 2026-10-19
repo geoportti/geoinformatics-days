@@ -1,0 +1,64 @@
+<!-- Venue map (Leaflet), included on the Home page and the Practical Information page
+     with ".. raw:: html" + ":file:". To change the venue, edit `venue` in the script below. -->
+<hr>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<style>
+  #grd-venue-map {
+    height: 450px; max-width: 700px; border: 1px solid #ccc;
+    /* keep Leaflet's layers (z-index 400+) inside the map, so it scrolls under the sticky header */
+    position: relative; z-index: 0;
+  }
+  @media (max-width: 480px) { #grd-venue-map { height: 320px; } }
+  .grd-copy { cursor: pointer; padding: 2px 4px; margin-left: 4px; vertical-align: middle; color: #555; }
+  /* clicks go to the button, not the icon inside it: the icon is swapped for a check mark on click,
+     and Leaflet would treat a click on a removed element as a map click and close the popup */
+  .grd-copy svg { pointer-events: none; }
+</style>
+
+<div id="grd-venue-map"></div>
+
+<script>
+  // Edit venue here
+  var venue = {
+    name: 'University of Helsinki – Main Building',
+    address: 'Fabianinkatu 33, 00100 Helsinki',
+    lat: 60.169490,
+    lon: 24.949412,
+  };
+
+  // on phones, dragging is off so one finger scrolls the page (pinch still zooms the map)
+  var map = L.map('grd-venue-map', { dragging: !L.Browser.mobile }).setView([venue.lat, venue.lon], 16);
+
+  var streets = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  var satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 19,
+    attribution: 'Tiles &copy; Esri — Source: Esri, Maxar, Earthstar Geographics',
+  });
+  L.control.layers({ 'Map': streets, 'Satellite': satellite }).addTo(map);
+
+  // copy icon next to the address; turns into a check mark for a moment after copying
+  var copyIcon = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
+  function grdCopyAddress(button) {
+    navigator.clipboard.writeText(venue.address);
+    button.textContent = '✓';
+    setTimeout(function () { button.innerHTML = copyIcon; }, 1500);
+  }
+
+  var marker = L.marker([venue.lat, venue.lon]).addTo(map).bindPopup(
+    '<b>' + venue.name + '</b><br>' + venue.address +
+    '<button type="button" class="grd-copy" title="Copy address" aria-label="Copy address" ' +
+      'onclick="grdCopyAddress(this)">' + copyIcon + '</button><br>' +
+    '<a target="_blank" href="https://www.google.com/maps/dir/?api=1&destination=' + venue.lat + ',' + venue.lon + '">' +
+      'Get directions (Google Maps)</a>'
+  );
+  // open the popup right away on wider screens; on phones it would cover the small map (tap the pin instead)
+  if (window.innerWidth > 600) marker.openPopup();
+</script>
+
+<hr>

@@ -8,8 +8,8 @@ import os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Geoinformatics Research Days 2026'
-copyright = 'Geoinformatics Research Days 2026 organizers'
+project = 'Geoinformatics Research Days 2027'
+copyright = 'Geoinformatics Research Days 2027 organizers'
 author = 'Bryan R Vallejo'
 release = '1.0'
 
@@ -30,65 +30,45 @@ extensions = [
 ]
 
 templates_path = ['_templates']
-exclude_patterns = []
+# not built into the site: the local preview output (_build), and pages kept as drafts.
+# To publish a draft, remove it from this list and add it to the page list in index.rst.
+exclude_patterns = ['_build', 'pages/parallel_sessions.rst']
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "pydata_sphinx_theme"
-html_logo = '_static/grd_menu.png' 
-html_title = "Welcome"
-
-html_static_path = ['_static']
-
-html_context = {
-   "default_mode": "light"
-}
-
-# ----- versioning
-json_url = '_static\switcher.json'
-
-version_match = "v1.0"
+# Shibuya theme: https://shibuya.lepture.com/customisation/
+# Note: theme-specific options (html_theme_options, html_sidebars) differ between
+# themes, so they must be updated together with html_theme when switching.
+# The theme and Sphinx versions are pinned in requirements.txt (Shibuya needs Sphinx >= 8).
+html_theme = "shibuya"
+html_logo = '_static/grd_menu.png'
+html_title = "Geoinformatics Research Days"
 
 html_theme_options = {
-    'navbar_align': 'content', 
-    'navbar_persistent': [], #'search-field'
-    'search_bar_text': '',
-    'header_links_before_dropdown': 8,
-    'navbar_end': ['navbar-icon-links', 'theme-switcher'], # , 
-    'footer_start':['search-field' , "copyright", ], # 
-    'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
-    'pygment_light_style': 'xcode',
-    'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Save the date: May 10–12, 2027 — Geoinformatics Research Days is returning in 2027!', #to add urgent messages
-    'switcher': {
-            'json_url': json_url,
-            'version_match':version_match
-        
-    },
-    # https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/header-links.html
-    "icon_links": [
-        {
-            # Label for this link
-            "name": "GitHub",
-            # URL where the link will redirect
-            "url": "https://github.com/geoportti/geoinformatics-days",  # required
-            # Icon class (if "type": "fontawesome"), or path to local image (if "type": "local")
-            "icon": "fa-brands fa-square-github",
-            # The type of image to be used (see below for details)
-            "type": "fontawesome",
-        }
-   ]
-                        }
-
-# -------> navigation bar elements on left
-
-html_sidebars = {
-    # Apply to ALL pages including index
-    "**": ["sidebar-nav-bs.html"],
+    # to add urgent messages; set to '' to hide
+    'announcement': 'Call for sessions open 28 October 2026',
+    # accent colors: https://shibuya.lepture.com/customisation/colors/
+    'accent_color': 'cyan',
+    # links in the top bar; 'url' is the page's file path without .rst.
+    # Keep in sync with the page list (toctree) at the bottom of index.rst.
+    'nav_links': [
+        {'title': 'Home', 'url': 'index'},
+        {'title': 'Submissions', 'url': 'pages/submissions'},
+        {'title': 'Program', 'url': 'pages/program'},
+        {'title': 'Practical Info', 'url': 'pages/practical_information'},
+    ],
+    'github_url': 'https://github.com/geoportti/geoinformatics-days',
+    # hide the theme's "Open in ChatGPT/Claude" page links
+    'show_ai_links': False,
+    # left sidebar: list the sections of the current page under its name
+    'toctree_titles_only': False,
 }
 
-# --------> custom static files
-html_static_path = ['_static']
+# right sidebar ("On this page", wide screens only); on phones it opens from the bar below the header
+html_sidebars = {
+    "**": ["sidebars/localtoc.html"],
+}
 
-html_css_files = ["css/gcc.css",]
+# --------> static files (images); add html_css_files = ["css/<name>.css"] here if custom CSS is ever needed
+html_static_path = ['_static']
