@@ -49,7 +49,15 @@ html_title = "Geoinformatics Research Days"
 
 html_theme_options = {
     # to add urgent messages; set to '' to hide
-    'announcement': 'Call for sessions open 28 October 2026',
+    # Planned announcements: keep one line active and comment out the rest (add/remove "# ").
+    'announcement': 'Call for sessions opens 28 October 2026',
+    # 'announcement': 'Call for sessions open until 27 November 2026',          # from 28 Oct 2026
+    # 'announcement': 'Abstract submission opens 9 December 2026',              # from 4 Dec 2026
+    # 'announcement': 'Abstract submission open until 8 February 2027',         # from 9 Dec 2026
+    # 'announcement': 'Registration opens 8 March 2027',                        # from 9 Feb 2027
+    # 'announcement': 'Registration open until 26 April 2027',                  # from 8 Mar 2027
+    # 'announcement': 'Presenters: please register by 2 April 2027',            # from 8 Mar 2027
+    # 'announcement': '',                                                       # after 26 Apr 2027
     # accent colors: https://shibuya.lepture.com/customisation/colors/
     'accent_color': 'cyan',
     # links in the top bar; 'url' is the page's file path without .rst.

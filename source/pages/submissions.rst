@@ -11,14 +11,17 @@ Call for Sessions
 
 We invite proposals for sessions. If you and your colleagues share a topic, question, or approach that deserves dedicated time,
 you are welcome to organize a session around it. This could be a regular session featuring presentations, a special themed session,
-a workshop, or possibly another format of your choice.
+a workshop, or another format of your choice. Sessions are typically 90 minutes long.
+
+Session organizers chair their session, review the abstracts submitted to it, and are encouraged to promote it in their networks.
+If a session receives only a few abstracts, it may be merged with a related session in discussion with the organizers.
 
 **A session proposal should include:**
 
 - A descriptive session title
 - The names, emails and affiliations of the organizers
 - A description of the session and its relevance, maximum 300 words
-- The preferred format (e.g. paper session, panel, workshop, or discussion)
+- The preferred format (e.g. presentation session, panel, workshop, or discussion)
 
 The proposals will be reviewed by the organizing committee, and accepted sessions will be published on this website.
 
@@ -39,6 +42,10 @@ The proposals will be reviewed by the organizing committee, and accepted session
             :align: center
 
             👉 Propose a session here
+
+.. After 27 November 2026: replace the text in the box above with
+.. "Session proposals are closed. Accepted sessions are listed on the :doc:`Program <program>` page."
+.. and comment out the button (add ".. " to the start of its lines).
 
 Call for Abstracts
 ==================
@@ -71,7 +78,7 @@ Submission Guidelines
 
 Presenters are invited to submit an abstract of a maximum of 300 words.
 
-All submitted abstracts will be peer-reviewed to ensure the quality of the contributions.
+Abstracts submitted to a session are reviewed by its organizers, and abstracts submitted to a general topic by the organizing committee.
 Accepted submissions will be selected for either an oral or poster presentation at the *Geoinformatics Research Days 2027*.
 
 Abstract Submission
@@ -89,6 +96,7 @@ from the platform, make sure to check your junk folder.
 
     .. To show the button: remove ".. " from the line below (keep the indentation).
     .. When open, change the text above to "opens 9 December 2026 and closes 8 February 2027".
+    .. After 8 February 2027, change it to "Abstract submission is closed." and comment out the button again.
 
     .. .. button-link:: https://submit.gi-days.fi/submit
             :color: primary
@@ -98,7 +106,9 @@ from the platform, make sure to check your junk folder.
             👉 Submit your abstract
 
 
-Scientific Committee
-====================
+.. Hidden until the members are confirmed: remove ".. " from the lines below to show it.
 
-TBA
+.. Program Committee
+.. =================
+
+.. TBA

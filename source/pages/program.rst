@@ -2,17 +2,32 @@
 Program
 =======
 
-TBA
+The program will be published here in spring 2027. It will include keynotes, parallel presentation sessions, and posters.
 
 Keynotes
 ========
 
-TBA
+Keynote speakers will be announced later.
+
+.. Template for one keynote: copy it for each speaker and remove ".. " from the start of the lines.
+
+.. **Speaker Name**, Affiliation
+
+.. *Title of the talk*
 
 Parallel Sessions
 =================
 
-TBA
+Accepted sessions will be listed here in December 2026, before abstract submission opens.
+
+.. Template for one accepted session (opens on click): copy it for each session and
+.. remove ".. " from the start of the lines, keeping the indentation.
+
+.. .. dropdown:: Session title
+
+..     **Organizers:** Name (Affiliation), Name (Affiliation)
+
+..     Session description.
 
 .. While the program is still changing: link to the live Google Doc.
 .. Use the doc's view-only share link (Share → General access: "Anyone with the link" → Viewer).
