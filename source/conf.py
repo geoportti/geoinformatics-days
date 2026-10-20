@@ -29,6 +29,8 @@ extensions = [
    # 'sphinx_last_updated_by_git'
 ]
 
+# _templates holds edited copies of some Shibuya theme templates (used instead of the theme's).
+# When upgrading Shibuya, compare them with the new version's files.
 templates_path = ['_templates']
 # not built into the site: the local preview output (_build), and pages kept as drafts.
 # To publish a draft, remove it from this list and add it to the page list in index.rst.
@@ -66,7 +68,7 @@ html_theme_options = {
 }
 
 # right sidebar: "On this page" (sections of the current page). Below ~1280px wide it opens
-# from the icon in the bar under the header.
+# as a drawer from an icon: in the top bar on mid-size screens, in the bar under the header on phones.
 html_sidebars = {
     "**": ["sidebars/localtoc.html"],
 }

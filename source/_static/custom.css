@@ -1,7 +1,45 @@
-/* The compact layout (conf.py) has no left sidebar, but on phones the theme still shows
-   its menu button, which then does nothing. Hide it. */
-button[aria-controls="lside"] {
+/* Phones: the pages menu button is in the bar under the header (left, see
+   _templates/components/breadcrumbs.html), so hide the theme's one in the top bar. The bar gets
+   a fixed height and the opened menu starts below it, so its button stays visible to close it. */
+@media (max-width: 767px) {
+  .sy-head-actions button[aria-controls="head-nav"] {
+    display: none;
+  }
+
+  .sy-breadcrumbs-inner {
+    height: 3rem;
+    padding: 0;
+  }
+
+  .sy-head-nav {
+    top: calc(var(--sy-s-offset-top) + 3rem + 1px);
+  }
+}
+
+/* Bar under the header: hide the page path text, keep the "On this page" button, on the right */
+.sy-breadcrumbs ol {
   display: none;
+}
+
+.sy-breadcrumbs-inner > div:last-child {
+  margin-left: auto;
+}
+
+/* Wider screens (pages shown in the top bar): no bar under the header; its "On this page"
+   button is in the top bar instead (_templates/partials/site-head.html). From 1280px the
+   theme shows "On this page" in the right sidebar, so the button is hidden there. */
+.grd-toc-button {
+  display: none;
+}
+
+@media (min-width: 768px) and (max-width: 1279px) {
+  .sy-breadcrumbs {
+    display: none;
+  }
+
+  .grd-toc-button {
+    display: flex;
+  }
 }
 
 /* Announcement bar (text set in conf.py): solid accent color instead of the theme's
