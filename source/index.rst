@@ -88,7 +88,7 @@ For questions or further information, please contact us by email:
 
     **geoinfo-research-days@helsinki.fi**
 
-News and updates are shared on `Geoportti's LinkedIn <https://www.linkedin.com/company/geoportti/>`_
+News and updates are shared on `Geoportti's LinkedIn <https://www.linkedin.com/company/geoportti-ri/>`_
 and through the FIUGINET network.
 
 
