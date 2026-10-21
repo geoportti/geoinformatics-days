@@ -45,6 +45,12 @@ Important Dates
 - Presenter registration deadline: 2 April 2027
 - Registration closes: 26 April 2027
 
+.. admonition:: Stay updated
+    :class: tip
+
+    Want to hear about calls, deadlines and program news? Follow
+    `Geoportti on LinkedIn <https://www.linkedin.com/company/geoportti-ri/>`_.
+
 Venue
 =====
 
@@ -81,15 +87,15 @@ Registration will open in March 2027.
 Contact Us
 ===============
 
+The event is coordinated by Kamyar Hasanzadeh and Anna Saarinen from the
+`Digital Geography Lab <https://www.helsinki.fi/en/researchgroups/digital-geography-lab>`_, University of Helsinki.
+We take care of the event communication and answer messages sent to the address below.
 For questions or further information, please contact us by email:
 
 .. admonition:: Email address
     :class: note
 
     **geoinfo-research-days@helsinki.fi**
-
-News and updates are shared on `Geoportti's LinkedIn <https://www.linkedin.com/company/geoportti-ri/>`_
-and through the FIUGINET network.
 
 
 Event Partners and Sponsors
