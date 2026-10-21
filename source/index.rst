@@ -46,7 +46,7 @@ Important Dates
 - Registration closes: 26 April 2027
 
 .. admonition:: Stay updated
-    :class: tip
+    :class: hint
 
     Want to hear about calls, deadlines and program news? Follow
     `Geoportti on LinkedIn <https://www.linkedin.com/company/geoportti-ri/>`_.

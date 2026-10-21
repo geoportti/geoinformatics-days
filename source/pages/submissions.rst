@@ -32,7 +32,7 @@ The proposals will be reviewed by the organizing committee, and accepted session
 .. (commented out) until abstract submission opens on 9 December 2026.
 
 .. admonition:: Session proposals
-    :class: note
+    :class: todo
 
     Session proposal **opens 28 October** and **closes 27 November 2026**.
     
@@ -90,7 +90,7 @@ from the platform, make sure to check your junk folder.
 
 
 .. admonition:: Abstract submission
-    :class: note
+    :class: todo
 
     Abstract submission **will open 9 December 2026**
 
