@@ -2,7 +2,7 @@
 Program
 =======
 
-The program will be published here in spring 2027. It will include keynotes, parallel presentation sessions, and posters.
+The program is still being planned. Details will be added here as they are confirmed, and the full program will be published in spring 2027.
 
 Keynotes
 ========

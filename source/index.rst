@@ -14,7 +14,7 @@ which has been organized by the member universities of the Finnish University Ne
 for over 10 years. The event will take place on **10–12 May 2027**, and will be organized by University of Helsinki together 
 with the FIUGINET network, hosted in Helsinki, Finland.
 
-The three days bring together keynotes, parallel presentation sessions, posters, and plenty of time for networking.
+The three days bring together keynotes, parallel presentation sessions, and time for networking.
 The event is held in English, and while it is a national gathering, participants from outside Finland are warmly welcome too.
 **Participation is free of charge.**
 

@@ -79,7 +79,7 @@ Submission Guidelines
 Presenters are invited to submit an abstract of a maximum of 300 words.
 
 Abstracts submitted to a session are reviewed by its organizers, and abstracts submitted to a general topic by the organizing committee.
-Accepted submissions will be selected for either an oral or poster presentation at the *Geoinformatics Research Days 2027*.
+Accepted submissions will be selected for presentation at the *Geoinformatics Research Days 2027*.
 
 Abstract Submission
 -------------------
