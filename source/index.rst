@@ -16,7 +16,7 @@ with the FIUGINET network, hosted in Helsinki, Finland.
 
 The three days bring together keynotes, parallel presentation sessions, and time for networking.
 The event is held in English, and while it is a national gathering, participants from outside Finland are warmly welcome too.
-**Participation is free of charge.**
+.. **Participation is free of charge.**
 
 .. The program includes the **Final Event of the Geospatial Challenge Camp (GCC)**, where multidisciplinary 
 .. teams of early-career researchers and students present solutions to real-world sustainability challenges using geospatial data and technologies. 
@@ -29,7 +29,7 @@ Important Dates
 
 **Sessions**
 
-- Proposals open: 28 October 2026
+- Proposals open: 30 October 2026
 - Proposal deadline: 27 November 2026
 - Notification of acceptance: 4 December 2026
 
@@ -67,7 +67,9 @@ Registration
 .. Places are limited, so we encourage you to register early to secure your spot.
 
 We warmly invite all interested in the field to participate, including researchers, industry professionals, 
-public sector experts, and students. **Participation is free of charge.**
+public sector experts, and students.
+
+.. **Participation is free of charge.**
 
 Registration will open in March 2027.
 
