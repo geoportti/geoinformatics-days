@@ -16,7 +16,6 @@ with the FIUGINET network, hosted in Helsinki, Finland.
 
 The three days bring together keynotes, parallel presentation sessions, and time for networking.
 The event is held in English, and while it is a national gathering, participants from outside Finland are warmly welcome too.
-.. **Participation is free of charge.**
 
 .. The program includes the **Final Event of the Geospatial Challenge Camp (GCC)**, where multidisciplinary 
 .. teams of early-career researchers and students present solutions to real-world sustainability challenges using geospatial data and technologies. 
