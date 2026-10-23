@@ -50,7 +50,7 @@ html_title = "Geoinformatics Research Days"
 html_theme_options = {
     # to add urgent messages; set to '' to hide
     # Planned announcements: keep one line active and comment out the rest (add/remove "# ").
-    'announcement': 'Call for sessions opens soon!',
+    'announcement': 'The Call for Sessions opens soon!',
     # 'announcement': 'Call for sessions open until 27 November 2026',          # from 28 Oct 2026
     # 'announcement': 'Abstract submission opens 9 December 2026',              # from 4 Dec 2026
     # 'announcement': 'Abstract submission open until 8 February 2027',         # from 9 Dec 2026
