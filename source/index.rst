@@ -28,7 +28,7 @@ Important Dates
 
 **Sessions**
 
-- *Proposals open soon*
+- Proposal opens: 30 Oct 2026
 - Proposal deadline: 27 November 2026
 - Notification of acceptance: 4 December 2026
 
@@ -71,9 +71,6 @@ public sector experts, and students.
 .. **Participation is free of charge.**
 
 Registration will open in March 2027.
-
-.. When registration opens on 8 March 2027: replace the line above with the lines below
-.. (remove ".. " from the start of each line and keep the indentation), and add the registration link.
 
 .. Registration is open until **26 April 2027**. Presenters, please register by **2 April 2027**.
 
