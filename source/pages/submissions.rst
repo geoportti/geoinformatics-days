@@ -34,7 +34,7 @@ The proposals will be reviewed by the organizing committee, and accepted session
 .. admonition:: Session proposals
     :class: todo
 
-    Session proposal **opens 30 October** and **closes 27 November 2026**.
+    Session proposal **opens 2 November** and **closes 27 November 2026**.
 
     .. button-link:: https://submit.gi-days.fi/submit
             :color: primary
