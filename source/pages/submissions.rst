@@ -34,20 +34,18 @@ The proposals will be reviewed by the organizing committee, and accepted session
 .. admonition:: Session proposals
     :class: todo
 
-    Session proposal **opens soon** and **closes 27 November 2026**.
+    Session proposal **opens 30 October** and **closes 27 November 2026**.
 
-    .. button-link:: 
+    .. button-link:: https://submit.gi-days.fi/submit
             :color: primary
             :shadow:
             :align: center
 
             👉 Propose a session here
 
-.. https://submit.gi-days.fi/submit
 
-.. After 27 November 2026: replace the text in the box above with
 .. "Session proposals are closed. Accepted sessions are listed on the :doc:`Program <program>` page."
-.. and comment out the button (add ".. " to the start of its lines).
+
 
 Call for Abstracts
 ==================
@@ -96,7 +94,6 @@ from the platform, make sure to check your junk folder.
 
     Abstract submission **will open 9 December 2026**
 
-    .. To show the button: remove ".. " from the line below (keep the indentation).
     .. When open, change the text above to "opens 9 December 2026 and closes 8 February 2027".
     .. After 8 February 2027, change it to "Abstract submission is closed." and comment out the button again.
 
@@ -108,9 +105,5 @@ from the platform, make sure to check your junk folder.
             👉 Submit your abstract
 
 
-.. Hidden until the members are confirmed: remove ".. " from the lines below to show it.
-
 .. Program Committee
 .. =================
-
-.. TBA
