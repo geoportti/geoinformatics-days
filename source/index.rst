@@ -28,7 +28,7 @@ Important Dates
 
 **Sessions**
 
-- Proposal opens: 30 Oct 2026
+- Proposal opens: 2 November 2026
 - Proposal deadline: 27 November 2026
 - Notification of acceptance: 4 December 2026
 
