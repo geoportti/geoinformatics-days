@@ -6,6 +6,8 @@ Geoinformatics Research Days welcomes contributions from all areas of geospatial
 providing an open platform for sharing ideas, methods, and innovations across the discipline.
 We welcome contributions ranging from early-stage research and practical experiences to innovative methods and new ideas.
 
+.. _call-for-sessions:
+
 Call for Sessions
 =================
 
