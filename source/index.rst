@@ -21,6 +21,20 @@ The event is held in English, and while it is a national gathering, participants
 .. teams of early-career researchers and students present solutions to real-world sustainability challenges using geospatial data and technologies. 
 .. Learn more at the `Geospatial Challenge Camp website <https://challenge-camp.geoportti.fi/>`_.
 
+.. After 27 November 2026, remove this box (or replace it with the abstract submission box).
+.. admonition:: Session proposals are open now!
+    :class: todo
+
+    Have a topic you'd like to build a session around? **Propose your session by 27 November 2026.**
+    See the :ref:`Call for Sessions <call-for-sessions>` for what to include.
+
+    .. button-link:: https://submit.gi-days.fi/submit
+            :color: primary
+            :shadow:
+            :align: center
+
+            👉 Propose a session here
+
 Important Dates
 ===============
 
